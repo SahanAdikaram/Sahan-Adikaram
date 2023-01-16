@@ -27,3 +27,5 @@ IoT technologies have a network level that consists of wired or wireless network
 The application layer defies and applies data, and it is in charge of providing the user with services relevant to that application. For example, some of the most exciting medical applications that the Internet of Things offers involve artificial intelligence (AI). AI has a variety of scientific applications, such as image analysis, text recognition with natural language processing, pharmacological activity design, and gene mutation expression prediction, among others. As an illustration, IoT-based healthcare and the application of deep machine learning can help medical practitioners perceive the invisible and offer new and improved diagnostic capability.
 
 **Although 100% diagnostic accuracy may never be achieved, system performance is consistently improved by integrating technology and physician expertise.**
+
+![ThinkstockPhotos-598252148](https://user-images.githubusercontent.com/116548418/212626101-95fc0acb-c237-4591-b68a-305f9ce3b161.jpg)
