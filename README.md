@@ -38,3 +38,9 @@ The application layer defies and applies data, and it is in charge of providing 
 The Internet of Things (IoT) is a great example of a developing technology that has an impact on communication and internet systems. It is intended to be used without the assistance of a human being and works with connected devices that can gather and redirect data through wireless networks. This is sometimes referred to as IoMT, or the Internet of Medical Things, in the context of medicine. Additionally, this is a practical idea that makes it simple for us to communicate with one another both physically and online at work. The communication network, end-terminal at the hospital, data gathering system, and data processing system are the fundamental components of a remote monitoring system (Malasinghe, Ramzan and Dahal, 2019).
 
 With the help of ideally any network and service, IoT enables connections between people and things Anywhere, Anytime, with Anything and Anyone. With the use of the internet and strong data analysis tools, IoT is utilized in consumer goods, automobiles and trucks, industrial and utility components, and other items used in daily life to make living much easier today.
+
+*You must know,
+**Types of IoMTs  
+•	In-home IoMT 
+•	Community IoMT 
+•	In-Hospital IoMT 
