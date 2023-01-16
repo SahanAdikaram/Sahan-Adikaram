@@ -41,7 +41,8 @@ With the help of ideally any network and service, IoT enables connections betwee
 
 **You must know,
 Types of IoMTs**
+..*In-home IoMT.
+..*Community IoMT.
+..*In-Hospital IoMT.
 
-**•	In-home IoMT 
-•	Community IoMT 
-•	In-Hospital IoMT**
+
