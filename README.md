@@ -76,10 +76,6 @@ In order to advance the IoMT industry, a significant difficulty that this sector
 IoT systems can also be automated, and by combining machine learning and artificial intelligence (AI), data analysis can be done more quickly and effectively.
 
 
-
-
-
-
 #### REFERENCES
 
 10 internet of things (IoT) healthcare examples (no date). Available at: https://ordr.net/article/iot-healthcare-examples/ (Accessed: 12 July 2022).
