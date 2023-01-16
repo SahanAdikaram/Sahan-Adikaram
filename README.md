@@ -11,3 +11,9 @@ This paper makes a new suggestion on how to develop a hospital setting that may 
 ## Healthcare IoT system architecture
 
 Perception, network, and application layers are the three main components of the fundamental IoT-based healthcare architecture, which can be discussed in relation to the healthcare sector.
+
+## Perception, network, and application layers?
+
+### 1)	Perception layer (Sensing systems that collect data) 
+
+The main components of IoT are technologies for perception and identification. Radio frequency identification (RFID), webcams, infrared sensors, GPS, medical sensors, and smart device sensors are a few examples of sensors—devices that can detect changes in the environment. Through object, position, and location recognition, these sensors enable comprehensive perception. They can also convert this data into digital signals for easier and more practical network transfer. Sensor technologies provide real-time treatment monitoring and the collection of several physiological characteristics about a patient, permitting precise diagnosis and effective therapy. Only a small number of IoT sensor devices, many of which have the potential to save lives, are currently being deployed in healthcare settings since they have not been clinically tested or found to be reliable.
