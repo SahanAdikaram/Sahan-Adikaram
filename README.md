@@ -46,3 +46,4 @@ Types of IoMTs**
 * In-Hospital IoMT.
 
 
+## After all this let’s discuss advantages of IoT system in healthcare
