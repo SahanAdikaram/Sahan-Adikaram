@@ -1,10 +1,3 @@
-<font size="6"
-          face="verdana"
-          color="green">
-          GeeksforGeeks!
-    </font>
-
-
 
 
 # Remote patient monitoring (RPM)
