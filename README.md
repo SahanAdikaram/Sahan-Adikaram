@@ -1,4 +1,4 @@
-# Remote patient monitoring (RPM)
+# **Remote patient monitoring (RPM)
 ![AdobeStock_281945725](https://user-images.githubusercontent.com/116548418/212618706-0c173a69-a143-497a-9131-313db5701381.jpg)
 Picture:- https://rb.gy/rizhxw 
 
@@ -21,3 +21,9 @@ The main components of IoT are technologies for perception and identification. R
 ### 2)	Network layer (Data communication and storage)
 
 IoT technologies have a network level that consists of wired or wireless networks that communicate, and store processed (layer 1) data locally or centrally. Low, medium, and high frequencies can be used for short-range communication, which includes Bluetooth, Zigbee, low-power Wi-Fi, RFID, wireless sensor networks, and the worldwide system for mobile communications. High frequency fourth generation (4G) cellular networks have become even more effective, and emerging 5G networks are becoming more widely accessible. It is anticipated that these networks will be a significant step forward in the development of IoT applications for the healthcare industry, with the ability to offer dependable connection to many devices at once.
+
+### 3)	Application layer
+
+The application layer defies and applies data, and it is in charge of providing the user with services relevant to that application. For example, some of the most exciting medical applications that the Internet of Things offers involve artificial intelligence (AI). AI has a variety of scientific applications, such as image analysis, text recognition with natural language processing, pharmacological activity design, and gene mutation expression prediction, among others. As an illustration, IoT-based healthcare and the application of deep machine learning can help medical practitioners perceive the invisible and offer new and improved diagnostic capability.
+
+**Although 100% diagnostic accuracy may never be achieved, system performance is consistently improved by integrating technology and physician expertise.
