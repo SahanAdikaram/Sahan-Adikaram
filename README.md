@@ -39,8 +39,8 @@ The Internet of Things (IoT) is a great example of a developing technology that 
 
 With the help of ideally any network and service, IoT enables connections between people and things Anywhere, Anytime, with Anything and Anyone. With the use of the internet and strong data analysis tools, IoT is utilized in consumer goods, automobiles and trucks, industrial and utility components, and other items used in daily life to make living much easier today.
 
-*You must know,
-**Types of IoMTs  
+**You must know,
+Types of IoMTs  
 •	In-home IoMT 
 •	Community IoMT 
-•	In-Hospital IoMT 
+•	In-Hospital IoMT**
