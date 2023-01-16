@@ -58,3 +58,26 @@ Hospitals can monitor patients in a variety of ways. Employees can store equipme
 
 Reminding patients to take their prescribed medications as directed and to have regular checkups will help them maintain a healthy lifestyle and lower their chance of developing issues down the road and the need for hospitalization. In Sri Lanka, multi-media conferencing is frequently utilized to provide patients with health information and to educate families about their own health. This is a far more straightforward method of collecting data in an IoT system, which is advantageous in terms of saving time and money.
 
+## Remember through all this advantages also we must talk little about disadvantages of IoT system in healthcare. However, reality is pros of this overweight cons.
+
+Health-related data collection is particularly vulnerable to cybercriminals since the data can be hacked and exploited to obtain personal health information about patients and providers. Health-related items are quite valuable, such as buying drugs and medical supplies with phony IDs so they can resell them later.
+
+Even high-quality video conferencing may not always be sufficient because it restricts the amount of physical inspection needed, which is a drawback. IoMT devices have various legal and regulatory problems since these devices collect highly sensitive data from people. Data accuracy can occasionally be questioned because data can be modified due to machine error or deliberate alterations by a human. As a result, depending on the location, using these gadgets can occasionally be challenging.
+
+
+## CONCLUSION
+
+Everyone is connected to smart devices and the internet, and the present and future are constrained by an age of science and technology. IoT and patient monitoring systems, which will be used more practically in the future as IoMT is a multi-billion-dollar industry, will benefit the health sector in the long term. Because diseases and illnesses will be easier to spot, more individuals will live longer overall.
+
+In addition to patient monitoring, IoT solutions are a new technology that may be extensively employed in many areas of healthcare, such as accurate medical record-keeping, device integration, sampling, and illness causes. IoT sensor-based devices have a great ability to lower the danger of surgery in difficult instances and are beneficial for pandemics of the COVID-19 kind. With the use of this technology, clinicians may quickly identify changes to the COVID-19 patient's vital statistics. As it advances toward the ideal approach for an information system to adapt world-class results and makes it possible for the hospital's treatment systems to be improved, this information-based service creates new healthcare opportunities.
+
+In order to advance the IoMT industry, a significant difficulty that this sector is currently facing is data privacy and security. As patient information is regarded as extremely sensitive data and is viewed as confidential in the context of healthcare, it is vital for this industry to provide data protection and privacy. Special security measures must be put in place to reduce the risk of data security breaches, and this can be seen as opening new opportunities for this sector of the economy. As mentioned in this study, the Internet of Things (IoT) is a highly advanced, developing technology with a wide range of applications in the provision of precise medical care. These applications include managing inventories used in the medical industry and the medical supply chain to ensure that the right item is delivered at the right time and location. Intelligent IoT devices would function independently. To make disease identification and follow-up more effective, both private and public clouds that store data as well as software will be available.
+
+IoT systems can also be automated, and by combining machine learning and artificial intelligence (AI), data analysis can be done more quickly and effectively.
+
+
+#### REFERENCES
+
+10 internet of things (IoT) healthcare examples (no date). Available at: https://ordr.net/article/iot-healthcare-examples/ (Accessed: 12 July 2022).
+
+Malasinghe, L., Ramzan, N. and Dahal, K. (2019) ‘Remote patient monitoring: a comprehensive study’, Journal of Ambient Intelligence and Humanized Computing, 10. Available at: https://doi.org/10.1007/s12652-017-0598-x. 
