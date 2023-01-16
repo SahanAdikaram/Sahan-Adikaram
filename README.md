@@ -78,6 +78,8 @@ IoT systems can also be automated, and by combining machine learning and artific
 
 
 
+
+
 #### REFERENCES
 
 10 internet of things (IoT) healthcare examples (no date). Available at: https://ordr.net/article/iot-healthcare-examples/ (Accessed: 12 July 2022).
