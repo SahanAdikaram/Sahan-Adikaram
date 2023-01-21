@@ -1,4 +1,5 @@
-
+<html>
+<body bgcolor=#EFE3E0>
 
 # Remote patient monitoring (RPM)
 ![AdobeStock_281945725](https://user-images.githubusercontent.com/116548418/212618706-0c173a69-a143-497a-9131-313db5701381.jpg)
@@ -83,3 +84,6 @@ IoT systems can also be automated, and by combining machine learning and artific
 10 internet of things (IoT) healthcare examples (no date). Available at: https://ordr.net/article/iot-healthcare-examples/ (Accessed: 12 July 2022).
 
 Malasinghe, L., Ramzan, N. and Dahal, K. (2019) ‘Remote patient monitoring: a comprehensive study’, Journal of Ambient Intelligence and Humanized Computing, 10. Available at: https://doi.org/10.1007/s12652-017-0598-x. 
+
+</body>
+</html>
