@@ -80,7 +80,7 @@ IoT systems can also be automated, and by combining machine learning and artific
 
 #### REFERENCES
 
-10 internet of things (IoT) healthcare examples (no date). Available at: https://ordr.net/article/iot-healthcare-examples/ (Accessed: 12 July 2022).
+10 internet of things (IoT) healthcare examples (no date). Available at:[click here](https://ordr.net/article/iot-healthcare-examples/) (Accessed: 12 July 2022).
 
-Malasinghe, L., Ramzan, N. and Dahal, K. (2019) ‘Remote patient monitoring: a comprehensive study’, Journal of Ambient Intelligence and Humanized Computing, 10. Available at: https://doi.org/10.1007/s12652-017-0598-x. 
+Malasinghe, L., Ramzan, N. and Dahal, K. (2019) ‘Remote patient monitoring: a comprehensive study’, Journal of Ambient Intelligence and Humanized Computing, 10. Available at:[click here](https://doi.org/10.1007/s12652-017-0598-x). 
 
