@@ -12,7 +12,7 @@ This paper makes a new suggestion on how to develop a hospital setting that may 
 
 ## Healthcare IoT system architecture
 
-<h1>Perception, network, and application layers are the three main components of the fundamental IoT-based healthcare architecture, which can be discussed in relation to the healthcare sector.</h1>
+Perception, network, and application layers are the three main components of the fundamental IoT-based healthcare architecture, which can be discussed in relation to the healthcare sector.
 
 ## Perception, network, and application layers?
 
