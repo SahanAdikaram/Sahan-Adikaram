@@ -10,7 +10,7 @@
 The term "remote patient monitoring" (RPM, also known as "remote patient management") refers to a technique used in the healthcare delivery system that uses the most recent developments in information technology to gather patient data and deliver useful care instead of conventional healthcare settings. By using the internet of things to stay in constant contact with the patient and the healthcare team while coordinating the treatment remotely, RPM is a technique that can replace the traditional methods employed in healthcare.
 This paper makes a new suggestion on how to develop a hospital setting that may be used for ongoing care following hospital release. It includes a smartphone application that gathers health measurements automatically and analyzes the information to suggest remedies or send out alarms. In any emergency, a patient can immediately establish a video call connection with a healthcare professional to acquire further information. 
 
-## Healthcare IoT system architecture
+## 🔷 Healthcare IoT system architecture
 
 Perception, network, and application layers are the three main components of the fundamental IoT-based healthcare architecture, which can be discussed in relation to the healthcare sector.
 
@@ -31,7 +31,7 @@ The application layer defies and applies data, and it is in charge of providing 
 **Although 100% diagnostic accuracy may never be achieved, system performance is consistently improved by integrating technology and physician expertise.**
 
 
-### IOT in distant patient monitoring
+### 🔷 IOT in distant patient monitoring
 
 ![ThinkstockPhotos-598252148](https://user-images.githubusercontent.com/116548418/212626101-95fc0acb-c237-4591-b68a-305f9ce3b161.jpg)
 
@@ -48,7 +48,7 @@ Types of IoMTs**
 * In-Hospital IoMT.
 
 
-## After all this let’s discuss advantages of IoT system in healthcare
+## 🔷 After all this let’s discuss advantages of IoT system in healthcare
 
 IoT is a wireless computer network that connects with the support of apps and hardware. The patient no longer needs to physically visit the doctor in order to receive a diagnosis, be monitored, or have their medical information tracked thanks to the Internet of Things (IoT) technology. IoT systems can also be utilized in medical settings to monitor patients. The main idea of remote patient monitoring in IoT systems is to keep track of the patient outside of the hospital and make quicker choices in real-time on patients' ailments. Emergency medical care and real-time sickness identification can boost a patient's chances of recovery.
 
@@ -60,7 +60,7 @@ Hospitals can monitor patients in a variety of ways. Employees can store equipme
 
 Reminding patients to take their prescribed medications as directed and to have regular checkups will help them maintain a healthy lifestyle and lower their chance of developing issues down the road and the need for hospitalization. In Sri Lanka, multi-media conferencing is frequently utilized to provide patients with health information and to educate families about their own health. This is a far more straightforward method of collecting data in an IoT system, which is advantageous in terms of saving time and money.
 
-## Remember through all this advantages also we must talk little about disadvantages of IoT system in healthcare. However, reality is pros of this overweight cons.
+## 🔷 Remember through all this advantages also we must talk little about disadvantages of IoT system in healthcare. However, reality is pros of this overweight cons.
 
 Health-related data collection is particularly vulnerable to cybercriminals since the data can be hacked and exploited to obtain personal health information about patients and providers. Health-related items are quite valuable, such as buying drugs and medical supplies with phony IDs so they can resell them later.
 
