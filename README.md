@@ -5,7 +5,7 @@
 [Picture](https://rb.gy/rizhxw)
 
 
-## let’s get some knowledge about “*What is this❓*”
+## let’s get some knowledge about “*What is this❓*” 
 
 The term "remote patient monitoring" (RPM, also known as "remote patient management") refers to a technique used in the healthcare delivery system that uses the most recent developments in information technology to gather patient data and deliver useful care instead of conventional healthcare settings. By using the internet of things to stay in constant contact with the patient and the healthcare team while coordinating the treatment remotely, RPM is a technique that can replace the traditional methods employed in healthcare.
 This paper makes a new suggestion on how to develop a hospital setting that may be used for ongoing care following hospital release. It includes a smartphone application that gathers health measurements automatically and analyzes the information to suggest remedies or send out alarms. In any emergency, a patient can immediately establish a video call connection with a healthcare professional to acquire further information. 
@@ -14,7 +14,7 @@ This paper makes a new suggestion on how to develop a hospital setting that may 
 
 Perception, network, and application layers are the three main components of the fundamental IoT-based healthcare architecture, which can be discussed in relation to the healthcare sector.
 
-## Perception, network, and application layers?
+## Perception, network, and application layers❔
 
 ### 1)	Perception layer (Sensing systems that collect data) 
 
@@ -67,7 +67,7 @@ Health-related data collection is particularly vulnerable to cybercriminals sinc
 Even high-quality video conferencing may not always be sufficient because it restricts the amount of physical inspection needed, which is a drawback. IoMT devices have various legal and regulatory problems since these devices collect highly sensitive data from people. Data accuracy can occasionally be questioned because data can be modified due to machine error or deliberate alterations by a human. As a result, depending on the location, using these gadgets can occasionally be challenging.
 
 
-## CONCLUSION
+## 🔘 CONCLUSION
 
 Everyone is connected to smart devices and the internet, and the present and future are constrained by an age of science and technology. IoT and patient monitoring systems, which will be used more practically in the future as IoMT is a multi-billion-dollar industry, will benefit the health sector in the long term. Because diseases and illnesses will be easier to spot, more individuals will live longer overall.
 
@@ -78,7 +78,7 @@ In order to advance the IoMT industry, a significant difficulty that this sector
 IoT systems can also be automated, and by combining machine learning and artificial intelligence (AI), data analysis can be done more quickly and effectively.
 
 
-#### REFERENCES
+#### ⚪️ REFERENCES
 
 10 internet of things (IoT) healthcare examples (no date). Available at:[click here](https://ordr.net/article/iot-healthcare-examples/) (Accessed: 12 July 2022).
 
