@@ -85,4 +85,5 @@ Malasinghe, L., Ramzan, N. and Dahal, K. (2019) ‘Remote patient monitoring: a 
 
 
 What Is Remote Patient Monitoring from [click here](https://rb.gy/eivyh2) 
+
 Three-Layer IoT Architecture from [click here](https://rb.gy/znrpvz) 
