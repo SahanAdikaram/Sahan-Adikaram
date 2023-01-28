@@ -83,3 +83,4 @@ IoT systems can also be automated, and by combining machine learning and artific
 
 Malasinghe, L., Ramzan, N. and Dahal, K. (2019) ‘Remote patient monitoring: a comprehensive study’, Journal of Ambient Intelligence and Humanized Computing, 10. Available at:[click here](https://doi.org/10.1007/s12652-017-0598-x). 
 
+What Is Telehealth, What Is Remote Patient Monitoring & How Are They Different from [click here](https://rb.gy/eivyh2) 
