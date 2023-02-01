@@ -87,3 +87,42 @@ Malasinghe, L., Ramzan, N. and Dahal, K. (2019) ‘Remote patient monitoring: a 
 What Is Remote Patient Monitoring from [click here](https://rb.gy/eivyh2) 
 
 Three-Layer IoT Architecture from [click here](https://rb.gy/znrpvz) 
+
+onst colorizeColors = [
+  Colors.purple,
+  Colors.blue,
+  Colors.yellow,
+  Colors.red,
+];
+
+const colorizeTextStyle = TextStyle(
+  fontSize: 50.0,
+  fontFamily: 'Horizon',
+);
+
+return SizedBox(
+  width: 250.0,
+  child: AnimatedTextKit(
+    animatedTexts: [
+      ColorizeAnimatedText(
+        'Larry Page',
+        textStyle: colorizeTextStyle,
+        colors: colorizeColors,
+      ),
+      ColorizeAnimatedText(
+        'Bill Gates',
+        textStyle: colorizeTextStyle,
+        colors: colorizeColors,
+      ),
+      ColorizeAnimatedText(
+        'Steve Jobs',
+        textStyle: colorizeTextStyle,
+        colors: colorizeColors,
+      ),
+    ],
+    isRepeatingAnimation: true,
+    onTap: () {
+      print("Tap Event");
+    },
+  ),
+);
