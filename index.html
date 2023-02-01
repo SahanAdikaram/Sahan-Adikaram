@@ -1,27 +1,38 @@
-<!DOCTYPE html>
-<html lang="en-US">
+onst colorizeColors = [
+  Colors.purple,
+  Colors.blue,
+  Colors.yellow,
+  Colors.red,
+];
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>CSS animation, transitions and transforms</title>
+const colorizeTextStyle = TextStyle(
+  fontSize: 50.0,
+  fontFamily: 'Horizon',
+);
 
-    <!-- OUR STYLESHEET -->
-    <link rel="stylesheet" href="style.css" type="text/css" media="all">
-</head>
-
-<body>
-
-    <ul>
-        <li>L</li>
-        <li>O</li>
-        <li>A</li>
-        <li>D</li>
-        <li>I</li>
-        <li>N</li>
-        <li>G</li>
-    </ul>
-
-</body>
-
-</html>
+return SizedBox(
+  width: 250.0,
+  child: AnimatedTextKit(
+    animatedTexts: [
+      ColorizeAnimatedText(
+        'Larry Page',
+        textStyle: colorizeTextStyle,
+        colors: colorizeColors,
+      ),
+      ColorizeAnimatedText(
+        'Bill Gates',
+        textStyle: colorizeTextStyle,
+        colors: colorizeColors,
+      ),
+      ColorizeAnimatedText(
+        'Steve Jobs',
+        textStyle: colorizeTextStyle,
+        colors: colorizeColors,
+      ),
+    ],
+    isRepeatingAnimation: true,
+    onTap: () {
+      print("Tap Event");
+    },
+  ),
+);
