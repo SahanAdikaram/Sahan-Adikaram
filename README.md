@@ -88,3 +88,4 @@ What Is Remote Patient Monitoring from [click here](https://rb.gy/eivyh2)
 
 Three-Layer IoT Architecture from [click here](https://rb.gy/znrpvz) 
 
+Remote Patient Monitoring from [click here](https://rb.gy/iwiss9) 
