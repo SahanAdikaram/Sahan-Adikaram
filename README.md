@@ -93,3 +93,5 @@ What Is Remote Patient Monitoring from [click here](https://rb.gy/eivyh2)
 Three-Layer IoT Architecture from [click here](https://rb.gy/znrpvz) 
 
 Remote Patient Monitoring from [click here](https://rb.gy/iwiss9) 
+
+“Internet of Medical Things (IoMT)” video from [this channel](https://rb.gy/g5qjey) 
