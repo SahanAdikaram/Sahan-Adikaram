@@ -48,7 +48,7 @@ Types of IoMTs**
 
 Watch this video to learn more about Internet of Medical Things (IoMT) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kYsK945HBfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://img.youtube.com/vi/<https://www.youtube.com/watch?v=kYsK945HBfU>/default.jpg  
 
 
 ## 🔷 After all this let’s discuss advantages of IoT system in healthcare
