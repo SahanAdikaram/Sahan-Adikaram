@@ -46,13 +46,9 @@ Types of IoMTs**
 * 🔸Community IoMT.
 * 🔸In-Hospital IoMT.
 
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=kYsK945HBfU"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=kYsK945HBfU
+" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=kYsK945HBfU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 ## 🔷 After all this let’s discuss advantages of IoT system in healthcare
