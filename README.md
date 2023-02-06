@@ -50,7 +50,7 @@ Types of IoMTs**
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/kYsK945HBfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 🔷 After all this let’s discuss advantages of IoT system in healthcare
+## After all this let’s discuss advantages of IoT system in healthcare
 
 IoT is a wireless computer network that connects with the support of apps and hardware. The patient no longer needs to physically visit the doctor in order to receive a diagnosis, be monitored, or have their medical information tracked thanks to the Internet of Things (IoT) technology. IoT systems can also be utilized in medical settings to monitor patients. The main idea of remote patient monitoring in IoT systems is to keep track of the patient outside of the hospital and make quicker choices in real-time on patients' ailments. Emergency medical care and real-time sickness identification can boost a patient's chances of recovery.
 
@@ -62,14 +62,14 @@ Hospitals can monitor patients in a variety of ways. Employees can store equipme
 
 Reminding patients to take their prescribed medications as directed and to have regular checkups will help them maintain a healthy lifestyle and lower their chance of developing issues down the road and the need for hospitalization. In Sri Lanka, multi-media conferencing is frequently utilized to provide patients with health information and to educate families about their own health. This is a far more straightforward method of collecting data in an IoT system, which is advantageous in terms of saving time and money.
 
-## 🔷 Remember through all this advantages also we must talk little about disadvantages of IoT system in healthcare. However, reality is pros of this overweight cons.
+##  Remember through all this advantages also we must talk little about disadvantages of IoT system in healthcare. However, reality is pros of this overweight cons.
 
 Health-related data collection is particularly vulnerable to cybercriminals since the data can be hacked and exploited to obtain personal health information about patients and providers. Health-related items are quite valuable, such as buying drugs and medical supplies with phony IDs so they can resell them later.
 
 Even high-quality video conferencing may not always be sufficient because it restricts the amount of physical inspection needed, which is a drawback. IoMT devices have various legal and regulatory problems since these devices collect highly sensitive data from people. Data accuracy can occasionally be questioned because data can be modified due to machine error or deliberate alterations by a human. As a result, depending on the location, using these gadgets can occasionally be challenging.
 
 
-## 🔘 CONCLUSION
+## CONCLUSION
 
 Everyone is connected to smart devices and the internet, and the present and future are constrained by an age of science and technology. IoT and patient monitoring systems, which will be used more practically in the future as IoMT is a multi-billion-dollar industry, will benefit the health sector in the long term. Because diseases and illnesses will be easier to spot, more individuals will live longer overall.
 
