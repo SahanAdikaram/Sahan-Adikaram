@@ -51,6 +51,11 @@ Types of IoMTs**
 [<img src="https://i.ytimg.com/vi/kYsK945HBfU/maxresdefault.jpg" width="100%">](https://www.youtube.com/watch?v=kYsK945HBfU "Internet of Medical Things (IoMT)")
 
 
+
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=kYsK945HBfU" title="YouTube video player" frameborder="0" class="ytvideo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 ## 🔷 After all this let’s discuss advantages of IoT system in healthcare
 
 IoT is a wireless computer network that connects with the support of apps and hardware. The patient no longer needs to physically visit the doctor in order to receive a diagnosis, be monitored, or have their medical information tracked thanks to the Internet of Things (IoT) technology. IoT systems can also be utilized in medical settings to monitor patients. The main idea of remote patient monitoring in IoT systems is to keep track of the patient outside of the hospital and make quicker choices in real-time on patients' ailments. Emergency medical care and real-time sickness identification can boost a patient's chances of recovery.
